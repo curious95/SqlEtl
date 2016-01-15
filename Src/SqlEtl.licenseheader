@@ -1,0 +1,25 @@
+﻿extensions: designer.cs generated.cs
+extensions: .cs .cpp .h
+// <copyright file="FileName.cs" company="">
+// Copyright (c) 2016 All Right Reserved,
+//
+// THIS CODE AND INFORMATION ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY 
+// KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+// IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS FOR A
+// PARTICULAR PURPOSE.
+//
+// </copyright>
+// <author>Udaiappa Ramachandran</author>
+// <email>udaiappa@gmail.com</email>
+// <date>2016-1-15</date>
+// <summary></summary>
+extensions: .aspx .ascx
+<%-- 
+Sample license text.
+--%>
+extensions: .vb
+'Sample license text.
+extensions:  .xml .config .xsd
+<!--
+Sample license text.
+-->

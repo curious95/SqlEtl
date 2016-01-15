@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlEtl", "SqlEtl.csproj", "{5C6B78DD-2D58-428D-8E76-9E16AD2D602B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlEtl", "Src\SqlEtl.csproj", "{5C6B78DD-2D58-428D-8E76-9E16AD2D602B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
